@@ -30,8 +30,8 @@ Lets connect, here are my social profiles
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/sohelazmi"><img src="https://github-readme-stats.vercel.app/api?username=sohelazmi&show_icons=true&hide=issues,&count_private=true&title_color=ec4899&text_color=3382ed&icon_color=444e59&bg_color=181824&hide_border=true&show_icons=true" alt="sohel's GitHub stats" /></a>
+<a href="http://www.github.com/sohel-azmi"><img src="https://github-readme-stats.vercel.app/api?username=sohelazmi&show_icons=true&hide=issues,&count_private=true&title_color=ec4899&text_color=3382ed&icon_color=444e59&bg_color=181824&hide_border=true&show_icons=true" alt="sohel's GitHub stats" /></a>
 
-<a href="http://www.github.com/sohelazmi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelazmi&stroke=3382ed&background=181824&ring=ec4899&fire=ec4899&currStreakNum=3382ed&currStreakLabel=ec4899&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/sohel-azmi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sohelazmi&stroke=3382ed&background=181824&ring=ec4899&fire=ec4899&currStreakNum=3382ed&currStreakLabel=ec4899&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="https://github.com/sohelazmi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelazmi&langs_count=4&title_color=ec4899&text_color=3382ed&icon_color=444e59&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+<a href="https://github.com/sohel-azmi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelazmi&langs_count=4&title_color=ec4899&text_color=3382ed&icon_color=444e59&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
