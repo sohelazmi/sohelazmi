@@ -2,7 +2,7 @@
 
 On the journey of code since 2022. It's been almost 3 years ,enjoying the flow and wanna keep up with it.
 
-- 🧍 Pursuing Bachelor in Technology (_4th year_)
+- 🧍 Pursued Bachelor in Technology (_4th year_)
 - ☁️ Shows interest in cloud computing, I choosed [Salesforce](https://www.salesforce.com/in/) as my primary goal.
 - 📃 Admin, PD1 and Associate Certification.
 - 🏆 My Trailhead profile: **[sazmi9](https://www.salesforce.com/trailblazer/sazmi9)**
