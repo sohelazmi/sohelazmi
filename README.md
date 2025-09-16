@@ -1,10 +1,10 @@
 # Hi 👋 I am Sohel
 
-On the journey of code since 2022. It's been almost 3 years ,enjoying the flow and wanna keep up with it.
+On the journey of code since 2022. Currently, enjoying the flow and wanna keep up with it.
 
 - 🧍 Pursued Bachelor in Technology (_4th year_)
 - ☁️ Shows interest in cloud computing, I choosed [Salesforce](https://www.salesforce.com/in/) as my primary goal.
-- 📃 Admin, PD1 and Associate Certification.
+- 📃 Admin, PD1, Associate and AI Associate Certification.
 - 🏆 My Trailhead profile: **[sazmi9](https://www.salesforce.com/trailblazer/sazmi9)**
 - 🧠 Knows about
   - [Salesforce](https://www.salesforce.com/in/) Administration,
@@ -12,15 +12,16 @@ On the journey of code since 2022. It's been almost 3 years ,enjoying the flow a
   - SOQL,
   - SOSL,
   - Apex Integration (Those REST and SOAP API stuffs),
-  - LWC, Community (Digital Experience) Cloud.
+  - LWC, Community Cloud (Digital Experience)
+  - [OmniStudio (Velocity)](https://www.salesforce.com/products/omnistudio/overview/).
 
 ## 🕸️ Socials
 
 Lets connect, here are my social profiles
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sohel_azmi)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohel-azmi/)
 
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sohel_azmi)
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohel_azmi11)
 
