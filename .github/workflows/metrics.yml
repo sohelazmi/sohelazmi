@@ -1,0 +1,32 @@
+name: GitHub Metrics
+on:
+  # 🕒 Updates automatically every day at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # 🚀 Allows you to run it manually from the Actions tab
+  workflow_dispatch:
+  # ✍️ Updates whenever you push to the main branch
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Uses the built-in GitHub token (no setup required)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Core config
+          user: sohelazmi
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Adds your top languages
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 4
+          
+          # Theme settings (Matches GitHub's native dark/light mode)
+          config_display: large
+          config_padding: 0, 10%
